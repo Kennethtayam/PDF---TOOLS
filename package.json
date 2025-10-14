@@ -15,8 +15,16 @@
     "moment-timezone": "^0.5.48",
     "path": "^0.12.7",
     "pdf-lib": "^1.17.1",
+    "pdf-merger-js": "^3.1.0",
     "sharp": "^0.33.5"
   },
-  "devDependencies": {},
-  "description": ""
+  "description": "Use for fast Renaming files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennethtayam/PDF---TOOLS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kennethtayam/PDF---TOOLS/issues"
+  },
+  "homepage": "https://github.com/Kennethtayam/PDF---TOOLS#readme"
 }

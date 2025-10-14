@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Make sure your basePath is correct
-const basePath = 'C:\\Users\\Kenneth\\Desktop\\SCAN FILES\\EMPLOYEE LEAVE CARD - (ACTIVE)\\Complete Leave Cards'; 
+const basePath = 'C:\\Users\\Kenneth.CHRMO-140\\Desktop\\Desktop\\01 - SCAN FILES\\Leave Cards\\EMPLOYEE LEAVE CARD - (ACTIVE)\\Complete Leave Cards'; 
 
 const result = []; // Final parsed array
 
